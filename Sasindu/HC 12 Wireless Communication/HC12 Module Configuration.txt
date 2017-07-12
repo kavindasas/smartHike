@@ -1,0 +1,7 @@
+AT+B9600
+AT+C002
+AT+FU1
+
+
+
+http://trainelectronics.com/Arduino/HC-12-Serial_Radio/
